@@ -1,16 +1,16 @@
-## Hi there 👋
+# Santosh · EverestBuzz Network
 
-<!--
-**sk8ersantos/sk8ersantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I make websites, games and small tools for **EverestBuzz Network LLC**, a technology, media and events company in St. Charles, Missouri.
 
-Here are some ideas to get you started:
+*Base camp for bold businesses and young leaders.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm working on
+
+- **Callbreak**: the classic Nepali card game. Play online with friends or against the computer. Points only, no betting.
+- **Lekh**: Nepali typing in the browser.
+- **Preeti to Unicode**: turns old Preeti-font Nepali text into Unicode you can paste anywhere.
+- **Marriage points calculator**: keeps score for the Marriage card game.
+
+## Find me
+
+- Website: https://everestbuzz.com
